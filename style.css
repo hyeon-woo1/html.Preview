@@ -1,12 +1,13 @@
 a{
   text-decoration:none;
-  color: black;
+  color: blue;
 }
+
 h1{
   font-size: 60px;
   text-align: center;
   border-bottom:3px solid black;
-  margin:0px;
+  margin :0px;
   padding:20px;
 }
 ol{
@@ -15,6 +16,11 @@ ol{
   margin:0px;
   padding-left:30px;
   padding-top: 10px;
+  text-decoration: :overline;
+}
+
+li{
+  color:blue;
 }
 body{
   margin:0px;
